@@ -61,3 +61,7 @@ typings/
 .next
 
 .history
+/.idea/jscc2020.iml
+/.idea/modules.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
